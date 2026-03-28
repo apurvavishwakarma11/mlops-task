@@ -56,7 +56,7 @@ python run.py --input data.csv --config config.yaml --output metrics.json --log-
 ##  Sample Output
 
 ### metrics.json
-
+```
 json
 {
   "version": "v1",
@@ -67,20 +67,20 @@ json
   "seed": 42,
   "status": "success"
 }
-
+```
 
 ---
 
 ##  Logging (run.log)
 
-
+```
 Job started
 Config loaded
 Rows loaded
 Rolling mean computed
 Signal generated
 Job finished
-
+```
 
 ---
 
