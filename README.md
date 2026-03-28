@@ -1,5 +1,5 @@
-#  MLOps Batch Pipeline — Production-Ready Mini Project
-
+#  MLOps Batch Pipeline 
+- Production-Ready Mini Project
 ##  Overview
 
 This project implements a **production-style MLOps batch pipeline** in Python.
