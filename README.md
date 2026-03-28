@@ -25,9 +25,9 @@ Given OHLCV market data, the pipeline:
 
 ##  Pipeline Workflow
 
-```text
-Input (CSV) → Config (YAML) → Processing → Metrics + Logs
-```
+text
+Input (CSV) -> Config (YAML) -> Processing -> Metrics + Logs
+
 
 ### Steps:
 
